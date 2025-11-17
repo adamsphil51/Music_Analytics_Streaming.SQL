@@ -1,7 +1,6 @@
--- =====================================================
 -- Project: Music_Analytics_Streaming
 -- Purpose: Analyze listener behavior, song performance, and revenue
--- =====================================================
+
 
 -- 1. Artists table
 CREATE TABLE Artists (
